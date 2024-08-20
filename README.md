@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sheckie
+- 👋 Hi, I’m Shadrack Kiprono
 
 <!---
 Sheckie/Sheckie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
