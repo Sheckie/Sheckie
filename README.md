@@ -1,48 +1,45 @@
-<h1 align="center">Hi there, I'm Sheckie 👋</h1>
+# 🚀 Sheckie's Portfolio
 
-<p align="center">
-  🚀 Tech Enthusiast | 💻 Web Dev | 📊 Data Lover | ⚡ Always Learning
-</p>
-
----
-
-## 🔥 About Me
-- 🌍 Passionate about **Web Development & Data Science**
-- 📚 Currently learning **Node.js, Express, and MySQL**
-- 🤖 Building a **Telemedicine App**
-- 🏥 Background in **Nursing & Healthcare Tech**
+## 🌟 About Me  
+I'm **Sheckie**, a passionate **Full-Stack Developer**, **Cybersecurity Enthusiast**, and **MS Office Expert**. I specialize in **web development, ethical hacking, cloud security**, and **Microsoft Office applications** for documentation, data analysis, and reporting.
 
 ---
 
-## ⚡ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+## 💡 What I Do  
+- 🖥️ **Web Development**: HTML, CSS, JavaScript, React, Node.js, MySQL  
+- 🔐 **Cybersecurity**: Penetration Testing, Bug Bounty, OSINT  
+- ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Linux  
+- 📊 **MS Office**: Word, Excel, PowerPoint, Data Entry & Analysis  
 
 ---
 
-## 🚀 Featured Projects
-🌟 **[Weather Forecast App](https://github.com/Sheckie/weather-forecast-app)**  
-🌟 **[Telemedicine Hospital](https://github.com/Sheckie/telemedicine-hospital)**  
-🌟 **[SQL Database for Healthcare](https://github.com/Sheckie/hospital-db)**  
+## 📌 Key Highlights  
+✔️ Built multiple **responsive web applications**  
+✔️ Experienced in **finding and reporting security vulnerabilities**  
+✔️ Active in **open-source projects** and tech communities  
+✔️ Proficient in **Microsoft Excel (formulas, pivot tables, data visualization)**  
+✔️ Expert in **Word & PowerPoint for professional documentation and presentations**  
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sheckie&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sheckie&theme=dark" />
-</p>
+## 📈 Tech Stack  
+- **Languages**: JavaScript, Python, SQL  
+- **Frameworks**: React, Express.js  
+- **Security Tools**: Kali Linux, Burp Suite, Wireshark, Metasploit  
+- **Cloud & DevOps**: AWS, Docker, Terraform  
+- **Productivity**: Microsoft Office Suite (Word, Excel, PowerPoint)  
 
 ---
 
-## 🤝 Connect with Me
-- 🌍 **Portfolio:** [Coming Soon!](#)
-- 💬 **Twitter:** [@yourhandle](https://twitter.com/)
-- 💼 **LinkedIn:** [linkedin.com/in/yourhandle](https://linkedin.com/)
-- 📧 **Email:** kipronoshecky001@gmail.com
+## 🎯 Current Goals  
+- 🛠 Master **bug bounty hunting** & **cybersecurity certifications**  
+- 🚀 Scale my **full-stack development** skills  
+- 📊 Improve **data analysis & visualization in Excel**  
+- 🌎 Connect with other **tech enthusiasts & hackers**  
+
+---
+
+## 📂 How to Use This Repository  
+1. Clone the repo:  
+   ```sh
+   git clone https://github.com/Sheckie/your-repo-name.git
